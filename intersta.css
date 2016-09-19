@@ -1,0 +1,17 @@
+body {
+	background-image: url(images/scratched-scrapedyellow2.jpg);
+	background-size: cover;
+	color: 	#f0b3ff;
+	align-items: center;
+}
+
+#clock {
+background-color: rgba(0, 77, 26, .3);
+text-align: center;
+   margin-top: 10%;
+   font-size: 90px;
+   font-family: Futura;
+}
+
+
+
